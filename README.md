@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption-and-Decryption
-
+### Name: GANESH D
+### Reg.no: 212223240035
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
